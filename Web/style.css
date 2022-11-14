@@ -1,0 +1,45 @@
+.banner {
+  background: url(https://img.freepik.com/free-photo/background-with-shadow-floral-branches_53876-102701.jpg?w=900&t=st=1667491988~exp=1667492588~hmac=7f4eb63560722adf18465cf53335ec8449f306cd59287d0613d3cb6986f460f0) 
+  no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: rgb(0, 0, 0);
+}
+
+  .card-text{
+    text-align: center;
+    font-weight: bold;
+  }
+ .card1{
+  background-color:lightskyblue;
+ }
+
+ .back{
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/9/519/764/mountains-best-for-desktop-background-wallpaper-preview.jpg);
+  background-size:cover;
+}
+.cover1{
+  background-image: url(kuliah.jpeg);
+  background-size:cover;
+}
+.cover2{
+  background-image: url(healing.jpeg);
+  background-size:cover;
+}
+.cover3{
+  background-image: url(hicare.jpeg);
+  background-size:cover;
+}
+.cover4{
+  background-image: url(kpu.jpeg);
+  background-size:cover;
+}
+.cover5{
+  background-image: url(karisma.jpeg);
+  background-size:cover;
+}
+.cover6{
+  background-image: url(dance.jpeg);
+  background-size:cover;
+}
